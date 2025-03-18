@@ -73,7 +73,7 @@ Return ONLY a JSON object with this format:
 
       final model = GenerativeModel(
         model: 'gemini-2.0-flash',
-        apiKey: 'AIzaSyAwYqhxkI8BLAQp0cp1CTM4mLQc9cjAxzg',
+        apiKey: '',
       );
 
       final response = await model.generateContent([Content.text(prompt)]);
