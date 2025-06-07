@@ -1,4 +1,4 @@
-**# CV Rush**  
+# CV Rush
 
 CV Rush is the world's first independent, community-driven resume rating platform. It allows users to swipe, rate, and analyze resumes using a dynamic rating system with weighted contributions from recruiters, premium users, and regular users. The platform also offers social media-like interaction with real-time messaging and comments, helping users improve their resumes and connect with recruiters.  
 
